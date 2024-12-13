@@ -1,1 +1,1 @@
-# APPROXIMATING-2D-FUNCTIONS-USING-MANY-1D-APPROXIMATIONS
+#Image Reconstruction through Multiple 1D Approximations
